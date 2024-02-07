@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uchihaghostmadara&label=Profile%20views&color=0e75b6&style=flat" alt="uchihaghostmadara" /> </p>
 
+- 🔭 I’m currently working on **Anomalous Human Activity Detection**
+
+- 💬 Ask me about **MERN, AI-ML, Django**
+
 - 📫 How to reach me **adarsh6749@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
